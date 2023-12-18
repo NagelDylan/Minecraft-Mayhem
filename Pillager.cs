@@ -1,8 +1,6 @@
 ﻿//Author: Dylan Nagel
 //File Name: Pillager.cs
 //Project Name: NagelD_PASS2
-//Creation Date: Mar. 23 2023
-//Modified Date: Apr. 16, 2023
 //Description: Stores the pillager and information surrounding the pillager
 
 using System;

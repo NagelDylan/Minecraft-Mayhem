@@ -1,8 +1,6 @@
 ﻿//Author: Dylan Nagel
 //File Name: Game1.cs
 //Project Name: NagelD_PASS2
-//Creation Date: Mar. 23 2023
-//Modified Date: Apr. 16, 2023
 //Description: Drives the minecraft shooter game, best described as the offspring of galaga and minecraft
 
 using System;

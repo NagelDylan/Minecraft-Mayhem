@@ -1,8 +1,6 @@
 ﻿//Author: Dylan Nagel
 //File Name: Creeper.cs
 //Project Name: NagelD_PASS2
-//Creation Date: Mar. 23 2023
-//Modified Date: Apr. 16, 2023
 //Description: Stores the creeper and information surrounding the creeper
 
 using Microsoft.Xna.Framework;
