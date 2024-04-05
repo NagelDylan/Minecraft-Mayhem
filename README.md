@@ -13,7 +13,7 @@ This game was developed to merge nostalgic arcade gaming with modern, popular ga
 - **Frameworks**: MonoGame, Pipeline
 
 ### Key Challenges Surmounted:
-- **Customizing enemy abilities:** There were challenges in coming up with unique enemy types that match both the galaga play-style and their original personalities in Minecraft
+- **Customizing enemy abilities:** There were challenges in coming up with unique enemy types that match both the galaga play-style and their original personalities in Minecraft.
 - **Designing Pixelated Aesthetics:** Designing a game to be pixelated and retro themed while not looking like lazy design can be tough.
 
 ### Repository Contents
