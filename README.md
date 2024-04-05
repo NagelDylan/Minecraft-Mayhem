@@ -4,17 +4,17 @@ Welcome to the repository for **Minecraft Mayhem**, a captivating retro-inspired
 
 ## Game Description
 
-**Minecraft Mayhem** is an innovative blend of arcade-style gameplay and the iconic Minecraft universe. Players control a character moving horizontally across the screen, echoing the mechanics of the arcade classic Galaga. The game is an exciting foray into a world where Minecraft meets retro arcade action.
-
-### Key Features
-
-- **Retro Arcade Style**: The game pays homage to Galaga, with players navigating the screen in a horizontal manner.
-- **Minecraft-Inspired Enemies**: Each wave of enemies is designed in the likeness of Minecraft mobs, including Creepers and Skeleton archers, adding a unique Minecraft twist to the gameplay.
-- **Pixel-Perfect Arsenal**: Players have access to an arsenal designed in the game's pixelated aesthetic, adding to the charm and challenge of the game.
+**Minecraft Mayhem** is an fun blend of arcade-style gameplay and the iconic Minecraft universe. Players control a character moving horizontally across the screen, echoing the mechanics of the arcade classic Galaga. The game is an exciting corssover into a world where Minecraft meets retro arcade action. Watch a demo of this game [here](https://youtu.be/z5gk4eCsG0k).
 
 ### Development
 
-This game was developed to merge nostalgic arcade gaming with modern, popular gaming culture, showcasing my love for both genres.
+This game was developed to merge nostalgic arcade gaming with modern, popular gaming culture, showcasing my love for both genres. The game is developed using:
+- **Language**: C#
+- **Frameworks**: MonoGame, Pipeline
+
+### Key Challenges Surmounted:
+- **Customizing enemy abilities:** There were challenges in coming up with unique enemy types that match both the galaga play-style and their original personalities in Minecraft
+- **Designing Pixelated Aesthetics:** Designing a game to be pixelated and retro themed while not looking like lazy design can be tough.
 
 ### Repository Contents
 
